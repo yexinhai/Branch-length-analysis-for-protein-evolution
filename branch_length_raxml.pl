@@ -1,6 +1,8 @@
 #!/usr/bin/perl -w
 use strict;
 
+# Xinhai Ye. yexinhai@zju.edu.cn
+
 #用法：perl 程序.pl all.pep.fasta 1_1_1_group_sorted.txt
 #读所有物种的序列；
 
