@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Xinhai Ye, yexinhai@zju.edu.cn
+
 input_table_list=./input_table/input.list
 
 for i in `cat $input_table_list`
